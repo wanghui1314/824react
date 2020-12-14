@@ -1,0 +1,21 @@
+.content{
+    background: orange;
+    color: #fff;
+}
+.select{
+    background: blue;
+}
+.unselect{
+    background: red;
+}
+.fontS{
+    font-size: 50px;
+}
+
+/* cate */
+.box_item{
+   padding: 20px;
+   margin: 10px;
+   border: 1px solid peru;
+   float: left;
+}
